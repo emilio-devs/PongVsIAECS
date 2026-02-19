@@ -3,6 +3,7 @@ Un **Pong single-player** hecho con **Python + Pygame**, montado como experiment
 
 La gracia del juego es que **juegas contra una IA bastante chetada**, pero durante la partida aparecen **power-ups aleatorios** que puedes coger tú o la IA. Si pillas uno en buen momento, puedes darle la vuelta a la partida.
 
+![Screenshot](screenshots/Screenshot_1.png)
 ---
 
 ## 🎮 Gameplay rápido
